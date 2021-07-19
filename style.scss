@@ -211,6 +211,7 @@ img {
 }
 
 nav {
+  position: fixed; // test if this can fix the navigation bar
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
